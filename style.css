@@ -56,9 +56,40 @@ p{
 
 }
 .work-header{
+    height:250px; 
     margin: 40px;
     width: 25%;
     float: left;
+}
+.work-area{
+    background-image: url("images/latest-work-bg.png");
+}
+#header-buttom{
+    text-align: center;
+}
+#bottom{
+    text-align: center;
+}
+#small-header{
+    text-align: center;
+}
+#last-paragraph{
+    text-align: center;
+}
+.last-section{
+    border: rgb(255, 74, 119);
+    background-color: rgb(255, 74, 119);
+}
+.last-work{
+    text-align: center;
+    background-color:orange;
+    height: 100px;
+    margin: 40px 460px 40px 460px;
+    padding: 30px;
+    color: white;
     
     
+}
+.buttom-part{
+    background-image: url("images/footer-bg.png");
 }
